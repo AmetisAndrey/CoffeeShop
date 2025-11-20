@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="959a034c-3f07-41a5-87b6-79446ff162fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/BeverageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/BeverageDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/MilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/SyrupDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/WhipCreamDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/menu/AmericanoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/menu/BeverageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/menu/EspressoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/menu/ItemsMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/menu/LatteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/menu/MenuRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/AbstractOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/BeverageOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/ConsoleOrderObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/NewState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/OrderObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/OrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/AddItemCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/ClearOrderCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/CommandManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/payment/CardPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/payment/CashPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/payment/PaymentFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/payment/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/BasicPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/DiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/DiscountedPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/LegacyDiscountAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/LegacyDiscountSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/NoDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/PercentDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/PricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CoffeeShop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35c3PCvXcQAzmEvAHzFuZvaebBk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java lerning/CofeeShop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959a034c-3f07-41a5-87b6-79446ff162fd" name="Changes" comment="" />
+      <created>1763395507404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763395507404</updated>
+      <workItem from="1763395508452" duration="2255000" />
+      <workItem from="1763462517942" duration="2882000" />
+      <workItem from="1763645170861" duration="6086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
