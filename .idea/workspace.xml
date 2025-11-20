@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959a034c-3f07-41a5-87b6-79446ff162fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/BeverageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/BeverageDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/MilkDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/SyrupDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beverage/WhipCreamDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/AmericanoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/BeverageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/EspressoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/ItemsMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/LatteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/MenuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/AbstractOrderState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/BeverageOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/ConsoleOrderObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/NewState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/OrderObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/OrderState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/AddItemCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/ClearOrderCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/command/CommandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment/CardPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment/CashPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment/PaymentFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/BasicPricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/DiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/DiscountedPricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/LegacyDiscountAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/LegacyDiscountSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/NoDiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/PercentDiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pricing/PricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ui/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CoffeeShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/order/ConsoleOrderObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/ConsoleOrderObserver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +71,7 @@
       <updated>1763395507404</updated>
       <workItem from="1763395508452" duration="2255000" />
       <workItem from="1763462517942" duration="2882000" />
-      <workItem from="1763645170861" duration="6086000" />
+      <workItem from="1763645170861" duration="6896000" />
     </task>
     <servers />
   </component>
